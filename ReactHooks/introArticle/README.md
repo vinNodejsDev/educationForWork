@@ -7,3 +7,4 @@ https://www.robinwieruch.de/react-hooks
 
 <b>Where the state is kept for hooks?</b>
 "Perhaps you’re wondering where React keeps the state for Hooks. The answer is it’s kept in the exact same place where React keeps state for classes. React has an internal update queue which is the source of truth for any state, no matter how you define your components.".
+
